@@ -1,0 +1,3 @@
+[submodule "src/secondary"]
+	path = src/secondary
+	url = https://github.com/ganeshfromindia/secondary.git
